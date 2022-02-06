@@ -1,21 +1,21 @@
-eudo code
+pseudo code
 {
 Initial Function()
 {
   //Sample Code
 }
 
-
+<<<<<<< HEAD
 feature1()
 {
   //Sample Code for Feature 1
   //feature1 modified
-
+=======
 Initial Security()
 {
  //Sample Code
  //added new feature in security
-
+>>>>>>> 4b3d284b48f6067553f2d711f0b72806e439ac48
 }
 
 
